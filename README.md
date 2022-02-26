@@ -14,14 +14,14 @@
 
   ## About the Project
 
-<h6> User Store:</h6>
+<h3> User Store:</h3>
 <br>
 <p>AS AN avid traveler
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
 SO THAT my account balance is accurate when I am traveling </p>
 
 <br>
-<h6>Acceptance Criteria:</p>
+<h3>Acceptance Criteria:</h3>
 <p>GIVEN a budget tracker without an internet connection
 WHEN the user inputs an expense or deposit
 THEN they will receive a notification that they have added an expense or deposit
@@ -31,6 +31,11 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ## DEMO & Deployed URL: 
 <a href= "https://spend-wisely-young-one.herokuapp.com">https://spend-wisely-young-one.herokuapp.com/</a>
+
+<br>
+
+![image](https://user-images.githubusercontent.com/88634637/155838950-e48d0023-743d-4cd5-9283-ee6438ec17cd.png)
+
 
 
 
